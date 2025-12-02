@@ -12,10 +12,10 @@ Users can build a knowledge graph as a guide: Users can input the domain of know
 
 ## Architecture
 
-├── Root agent (Knowlege graph agent)\
-│&emsp;├── Roadmap Resarch agent (as tool)\
-│&emsp;│&emsp;├── Search tool (Google search)\
-│&emsp;├── Write tool (Write to curricula, topics and topic links tables in database)\
+├─ Root agent (Knowlege graph agent)\
+│&emsp;├─ Roadmap Resarch agent (as tool)\
+│&emsp;│&emsp;├─ Search tool (Google search)\
+│&emsp;├─ Write tool (Write to curricula, topics and topic links tables in database)\
 
 ## Conclusion
 The software can let users to learn in followings ways:
