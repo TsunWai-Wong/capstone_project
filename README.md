@@ -8,7 +8,7 @@ The internet has made knowledge vastly more accessible compared to traditional, 
 ## Solution Statement
 This product aims to provide an intuitive and structured way for users to build deep, organized knowledge in any domain. It combines AI-generated knowledge graph to create a personalized and systematic learning experience.
 
-Users can build a knowledge graph as a guide: Users can input the domain of knowledge that they want to master. The product can generate a network-form (or Tree in the future version) knowledge graph to showcase the keep concepts in the domain and the relation among them. Then users can establish understandings in the concepts by learning them one by one.
+Users can build a knowledge graph as a guide: Users can input the domain of knowledge that they want to master. The product can generate a network-form (or Tree in the future version) knowledge graph to showcase the keep concepts in the domain and the relation among them. This means a structure of notes that can be opened in Obisidian will be generated. Then users can establish understandings in the concepts by learning them one by one.
 
 ## Architecture
 
