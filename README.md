@@ -19,6 +19,6 @@ Users can build a knowledge graph as a guide: Users can input the domain of know
 
 ## Conclusion
 The software can let users to learn in followings ways:
-Personalised: Users can learn at their own pace. And the difficulties of the content will be adjusted according to user’ level.
-Holistic: Users can get a systematic view on the knowledge domain that they want to explore
-Up-to-date: Users can learn the current knowledge, instead of pre-set knowledge that written in the textbooks
+- Personalised: Users can learn at their own pace. And the difficulties of the content will be adjusted according to user’ level.
+- Holistic: Users can get a systematic view on the knowledge domain that they want to explore
+- Up-to-date: Users can learn the current knowledge, instead of pre-set knowledge that written in the textbooks
